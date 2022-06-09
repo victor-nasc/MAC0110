@@ -1,0 +1,19 @@
+EX 1 - MAC110
+Victor Nascimento Ribeiro
+nUSP: 12513849
+
+
+x <- leia um numero
+y <- leia um numero
+
+quadrante <- "NE"
+
+se (y < 0)
+    se (x > 0)
+        quadrante <- "SE"
+    senao
+        quadrante <- "SO"
+senao se (x < 0)
+    quadrante <- "NO"
+
+imprimir quadrante
