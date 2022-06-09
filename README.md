@@ -23,5 +23,5 @@
 
 <h1>Listas</h1>
 <h4>Exercícios feitos para treinar o que foi aprendido em sala de aula</h4>
-<h4>Apesar de a disciplina ter sido ministrada em C resolvi a maioria dos exercícios das listas foram resolvidos em python, a fim aprender uma nova linguagemd de programação</h4>
+<h4>Apesar de a disciplina ter sido ministrada em C resolvi a maioria dos exercícios das listas foram resolvidos em python, a fim aprender uma nova linguagem de programação</h4>
 
