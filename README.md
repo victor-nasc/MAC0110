@@ -11,8 +11,6 @@
 <h1>Exercícios Programas</h1>
 <h3>EP1 - Jogo da Forca</h3>
 <h3>EP2 - Sistema de Monitoramento</h3>
-<h3>EP3 - ...</h3>
-<h3>EP4 - ...</h3>
 
 <br>
 
