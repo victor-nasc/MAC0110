@@ -15,7 +15,7 @@
 <br>
 
 <h1>EXs</h1>
-<h4>Exercícios "simples" entregues de forma avaliativa</h4>
+<h4>Exercícios curtos</h4>
 
 <br>
 
